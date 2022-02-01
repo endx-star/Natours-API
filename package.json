@@ -1,0 +1,22 @@
+{
+  "name": "natours-api",
+  "version": "1.0.0",
+  "description": "learning nodejs and express framework",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endx-star/Natours-API.git"
+  },
+  "author": "endale tegegnework",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endx-star/Natours-API/issues"
+  },
+  "homepage": "https://github.com/endx-star/Natours-API#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
