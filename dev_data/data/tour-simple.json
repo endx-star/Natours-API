@@ -141,13 +141,5 @@
     "price": 1456,
     "ratingQuantity": 40,
     "averageRating": 4.5
-  },
-  {
-    "id": 10,
-    "name": "The Ras Dashen mountain",
-    "duration": 20,
-    "price": 1500,
-    "ratingQuantity": 50,
-    "averageRating": 4
   }
 ]
